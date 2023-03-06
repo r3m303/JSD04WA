@@ -1,8 +1,8 @@
-<h1> 👋 Hi JSD 04 </h1>
+<h1> 👋 Hi JSD 04 Exminator </h1>
 <br>
 
 #Web Assessment: HTML and CSS <br>
-on **27 February 2023 ***<br>
+on **6 March 2023 ***<br>
 
 Good Morning everyone. Today, Is great day for let you try to build website from yourself. We want to know your lerning performance and our class quality. However,
 
@@ -35,4 +35,4 @@ Good luck!
 
 @r3m303<br>
 Generation Thailand<br>
-27 February 2023
+06 March 2023
